@@ -1,8 +1,8 @@
 
 import { connect } from "cloudflare:sockets";
 
-let password = '';
-let proxyIP = '';
+let password = '123';
+let proxyIP ="172.66.45.9:443,104.18.128.25:443,162.159.136.94:443"';
 //let sub = '';
 let subConverter = atob('U1VCQVBJLkNNTGl1c3Nzcy5uZXQ=');
 let subConfig = atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvY29uZmlnL0FDTDRTU1JfT25saW5lX01pbmlfTXVsdGlNb2RlLmluaQ==');
