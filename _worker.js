@@ -1,8 +1,17 @@
 
 import { connect } from "cloudflare:sockets";
 
-let password = '';
-let proxyIP = '';
+let password = '123';
+let proxyIP = '181.119.84.122:8080
+43.99.100.108:3128
+86.53.111.249:8080
+181.78.74.253:999
+54.151.158.32:3128
+172.238.112.231:3128
+103.118.102.98:80
+185.191.239.248:3128
+163.181.207.213:9999
+199.7.149.90:3128';
 //let sub = '';
 let subConverter = atob('U1VCQVBJLkNNTGl1c3Nzcy5uZXQ=');
 let subConfig = atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvY29uZmlnL0FDTDRTU1JfT25saW5lX01pbmlfTXVsdGlNb2RlLmluaQ==');
